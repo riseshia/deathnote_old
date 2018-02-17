@@ -1,0 +1,14 @@
+---
+User:
+- "#feed"
+- "#unused_feed"
+- ".food"
+- ".unused_food"
+- ".singleton"
+- ".unused_singleton"
+IncludedModule:
+- "#included_method"
+- "#unused_included_method"
+ExtendedModule:
+- "#extended_method"
+- "#unused_extended_method"

@@ -1,0 +1,9 @@
+User:
+  - '#feed'
+  - '.food'
+
+IncludedModule:
+  - '#included_method'
+
+ExtendedModule:
+  - '#extended_method'

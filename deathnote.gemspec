@@ -33,4 +33,9 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "bundler", "~> 1.16"
   spec.add_development_dependency "rake", "~> 10.0"
   spec.add_development_dependency "rspec", "~> 3.0"
+  spec.add_development_dependency "benchmark-ips", "~> 2.7.2"
+  spec.add_development_dependency "okuribito", "~> 0.2.3"
+  spec.add_dependency "activesupport", ">= 4.0"
+  spec.add_dependency "ruby_parser", "~> 3.11.0"
+  spec.add_dependency "sexp_processor", "~> 4.10.1"
 end
